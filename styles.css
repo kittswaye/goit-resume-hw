@@ -56,6 +56,16 @@ body {
     text-decoration-line: underline;
 }
 
+.github {
+    color: #161D2A;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: underline;
+}
+
 .contact-info {
     margin-bottom: 20px;
 }
@@ -63,6 +73,8 @@ body {
 .tech-skills,
 .soft-skills {
     margin-bottom: 20px;
+    color: #161D2A;
+    font-size: 14px;
 }
 
 .skills {
@@ -102,7 +114,7 @@ body {
 }
 
 .about {
-    color: #595959;
+    color: #161D2A;
     font-family: Montserrat;
     font-size: 14px;
     font-style: normal;
@@ -122,7 +134,7 @@ body {
 }
 
 .links {
-    color: #595959;
+    color: #161D2A;
     font-family: Montserrat;
     font-size: 14px;
     font-style: normal;
@@ -139,10 +151,6 @@ body {
     font-weight: 400;
     line-height: 24px;
     text-decoration-line: underline;
-}
-
-.code {
-
 }
 
 .education {
